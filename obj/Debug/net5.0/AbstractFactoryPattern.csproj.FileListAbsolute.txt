@@ -1,0 +1,16 @@
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\VSCode\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\VSCode\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache
